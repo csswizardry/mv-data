@@ -23,6 +23,11 @@
 			"photo": "img/shrodingcat.png",
 			"name": "Schrödingcat",
 			"age": "-3"
-		}
+		},
+		{
+			"name": "Charles Cattage",
+			"age": "101"
+		},
+		{}
 	]
 }
